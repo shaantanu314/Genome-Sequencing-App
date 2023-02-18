@@ -34,11 +34,6 @@
 	* Process sleep EEG signals in real-time
 Produce predictions of the sleep stage for each time step in the EEG signal.
 
-![1](Diagrams\RNN.jpg)
-
-![2](Diagrams\CNN.jpg)
-
-
 
 *Web App*
 
